@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eValididate-Email validator for project</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo"> <img src="img/email.svg" alt="email.svg"> <span>EValidate</span></div>
+
+            <ul>
+                <li><a href="#home">home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#Contact-me">Contact</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home"> 
+
+            <div class="container">
+                <h1>Enter your Email to validate </h1>
+                <form action="/submit" method="post">
+                    <!-- Text input for username -->
+    
+                    <input placeholder="Enter email to validate" type="text" id="username">
+                    <br> <br>
+                    <!-- Submit button -->
+                    <input id="submitBtn" type="submit" value="Submit" class="btn">
+                </form>
+            </div>
+            <div id="results"  class="container">
+                <h2>Your Results</h2>
+                
+                <div id="ResultCont"> </div>
+            </div>
+        </section>
+        <section id="Contact-me">
+    <div id="Contact">
+
+        <!-- <h2>Contact Me</h2> -->
+         <div class="Contact-toggle">📩Contact</div>
+        <div class="Contact-info">
+          <p>Email: arifkhan933689@gmail.com</p>
+          <p>GitHub: <a href="https://github.com/Arif1234-cpu" target="_blank">github.com/see-projects</a></p>
+        </div>
+    </div>
+  
+</section>
+
+    </main>
+    <footer>
+        &copy;Mark| eValidate.com| All Right Reserved
+    </footer>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>
