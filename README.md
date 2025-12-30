@@ -1,4 +1,7 @@
+
 # 📧 Email Validator Web Page
+#### Video Demo:  https://youtu.be/LinDJIIBaQM?si=dQgovNYlgjrcP3Ls
+#### Description:
 
 A simple, lightweight, and responsive Email Validator Web Page built using HTML, CSS, and JavaScript.
 This project validates email addresses in real time on the client side, helping users instantly know whether an entered email follows a valid format.
@@ -109,3 +112,4 @@ This ensures incorrect email formats are caught before submission.
 ```
 Mohammad Arif Khan
 GitHub: Arif1234-cpu
+
