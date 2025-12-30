@@ -1,5 +1,6 @@
 # 📧 Email Validator Web Page
-
+#### Video Demo:  <URL HERE>
+#### Description:
 A simple, lightweight, and responsive Email Validator Web Page built using HTML, CSS, and JavaScript.
 This project validates email addresses in real time on the client side, helping users instantly know whether an entered email follows a valid format.
 
@@ -66,19 +67,17 @@ Simply open the index.html file in any modern web browser.
 ✔️ No installation
 ✔️ No dependencies
 ```
-Responsiveness
+## Responsiveness
 ```
 The layout adapts automatically to different screen sizes using CSS:
 
 Desktop ✔️
-
 Tablet ✔️
-
 Mobile ✔️
-
 This makes it suitable for real-world web applications
- How It Works
-
+```
+## How It Works
+```
 The user enters an email address in the input field.
 
 JavaScript listens for input events.
@@ -86,15 +85,28 @@ JavaScript listens for input events.
 A regular expression checks the email format.
 
 Visual feedback is shown instantly:
-
- Valid email
-
- Invalid email
-
+ -Valid email
+ -Invalid email
 This ensures incorrect email formats are caught before submission.
+
 ```
-⭐ Acknowledgements
+## Use Cases
 ```
-Inspired by real-world form validation needs
-Built as a beginner-friendly JavaScript project
-Suitable for academic submissions and portfolios
+-Signup forms
+-Login pages
+-Contact forms
+-Newsletter subscriptions
+-Client-side form validation demos
+-Beginner JavaScript projects
+
+```
+##  Acknowledgements
+```
+-Inspired by real-world form validation needs
+-Built as a beginner-friendly JavaScript project
+-Suitable for academic submissions and portfolios
+```
+## Author
+```
+Mohammad Arif Khan
+GitHub: Arif1234-cpu
