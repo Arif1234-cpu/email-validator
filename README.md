@@ -65,9 +65,9 @@ Simply open the index.html file in any modern web browser.
 ✔️ No server
 ✔️ No installation
 ✔️ No dependencies
-
+```
 Responsiveness
-
+```
 The layout adapts automatically to different screen sizes using CSS:
 
 Desktop ✔️
@@ -92,8 +92,9 @@ Visual feedback is shown instantly:
  Invalid email
 
 This ensures incorrect email formats are caught before submission.
-
+```
 ⭐ Acknowledgements
+```
 Inspired by real-world form validation needs
 Built as a beginner-friendly JavaScript project
 Suitable for academic submissions and portfolios
